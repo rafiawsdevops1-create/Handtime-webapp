@@ -1,4 +1,4 @@
-name: Handtime # Name of the deployment
+name: Handtime # Name of the deployment s3
 
 on:
   push: # Trigger the workflow when changes are pushed
